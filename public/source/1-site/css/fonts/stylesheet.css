@@ -1,0 +1,58 @@
+@font-face {
+    font-family: 'Zahra-Arabic';
+    src: url('ZahraArabic-Regular.eot');
+    src: url('ZahraArabic-Regular.eot?#iefix') format('embedded-opentype'),
+        url('ZahraArabic-Regular.woff2') format('woff2'),
+        url('ZahraArabic-Regular.woff') format('woff'),
+        url('ZahraArabic-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+
+
+
+@font-face {
+    font-family: 'ZahraArabic-Bold';
+    src: url('ZahraArabic-Bold.eot');
+    src: url('ZahraArabic-Bold.eot?#iefix') format('embedded-opentype'),
+        url('ZahraArabic-Bold.woff2') format('woff2'),
+        url('ZahraArabic-Bold.woff') format('woff'),
+        url('ZahraArabic-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+
+
+
+@font-face {
+    font-family: 'Cairo-Regular';
+    src: url('Cairo-Regular.eot');
+    src: url('Cairo-Regular.eot?#iefix') format('embedded-opentype'),
+        url('Cairo-Regular.woff2') format('woff2'),
+        url('Cairo-Regular.woff') format('woff'),
+        url('Cairo-Regular.ttf') format('truetype'),
+        url('Cairo-Regular.svg#Cairo-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Cairo-SemiBold';
+    src: url('Cairo-SemiBold.eot');
+    src: url('Cairo-SemiBold.eot?#iefix') format('embedded-opentype'),
+        url('Cairo-SemiBold.woff2') format('woff2'),
+        url('Cairo-SemiBold.woff') format('woff'),
+        url('Cairo-SemiBold.ttf') format('truetype'),
+        url('Cairo-SemiBold.svg#Cairo-SemiBold') format('svg');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+
+

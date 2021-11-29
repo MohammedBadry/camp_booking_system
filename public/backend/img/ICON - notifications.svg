@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="26.605" height="30.018" viewBox="0 0 26.605 30.018">
+  <g id="ICON_-_notifications" data-name="ICON - notifications" transform="translate(1 0.311)">
+    <g id="Vector_Smart_Object" data-name="Vector Smart Object" transform="translate(0 0)">
+      <path id="Path_25" data-name="Path 25" d="M23.5,10.2a8.2,8.2,0,1,0-16.4,0C7.1,19.77,3,22.5,3,22.5H27.605S23.5,19.77,23.5,10.2Z" transform="translate(-3 -0.633)" fill="none" stroke="#9a9ea3" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <path id="Path_26" data-name="Path 26" d="M15,21a2.735,2.735,0,0,1-4.73,0" transform="translate(-0.332 6.339)" fill="none" stroke="#9a9ea3" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <ellipse id="Ellipse_1" data-name="Ellipse 1" cx="4" cy="4.5" rx="4" ry="4.5" transform="translate(16.337 -0.311)" fill="#5b8dd7"/>
+    </g>
+  </g>
+</svg>
